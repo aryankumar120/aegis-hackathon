@@ -4,7 +4,13 @@ Live Demo: https://aegis-hackathon-demo.streamlit.app/
 Aegis is an autonomous, multi-agent AI system designed to objectively measure a candidate's technical skill and "AI Fluency" in a simulated, real-world environment. This project was developed for the HackOmatic 2025: Agentic AI Hackathon.
 
 # Explore the App:
-  <img width="1459" height="789" alt="Screenshot 2025-09-20 at 7 59 32 PM" src="https://github.com/user-attachments/assets/56e42774-9d13-4331-9cc8-348723764ca1" />
+<img width="1470" height="601" alt="Screenshot 2025-09-20 at 10 27 42 PM" src="https://github.com/user-attachments/assets/44245666-2745-4cb7-8518-a097de0482fe" />
+
+<img width="1470" height="788" alt="Screenshot 2025-09-20 at 10 27 23 PM" src="https://github.com/user-attachments/assets/84f70703-82d2-4cc5-ab10-540cc82a0bf3" />
+
+<img width="1470" height="794" alt="Screenshot 2025-09-20 at 10 28 59 PM" src="https://github.com/user-attachments/assets/3e3b4d89-1877-4bc2-bf03-bdbce8c5b9d2" />
+
+<img width="1470" height="797" alt="Screenshot 2025-09-20 at 10 29 22 PM" src="https://github.com/user-attachments/assets/ff3404fb-beea-4c2e-b8e9-3b8692921ace" />
 
 
 # ► Project Demo
